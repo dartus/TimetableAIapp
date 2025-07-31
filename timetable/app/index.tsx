@@ -12,6 +12,7 @@ export default function Index() {
     >
       <Text>This is my timetable app</Text>
       <Link href="/user">user</Link>
+      <Link href="/calendar">calendar</Link>
     </View>
   );
 }
